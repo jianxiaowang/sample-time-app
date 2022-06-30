@@ -1,2 +1,6 @@
-# sample-time-app
-Deploy a simple application to K8s that returns the currrnt time when visited using the path "/time"
+# Sample-time-app
+
+Sample Python Flask application to showcase the steps of building and running a web server with Docker.
+
+Docker: https://www.docker.com/
+Flask documentation: https://flask.palletsprojects.com/en/1.1.x/
